@@ -40,4 +40,5 @@
  * ButtonFontSize default = 20
  * ButtonBorderWith default = 1
  * ButtonCornerRadius default = 15
+ * Increment default = 1
  * TextChanged 
