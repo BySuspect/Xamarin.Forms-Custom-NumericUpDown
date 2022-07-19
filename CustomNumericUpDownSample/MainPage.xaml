@@ -14,6 +14,7 @@
             ButtonCornerRadius="15"
             CornerRadius="15"
             DownButtonBackgroundColor="Red"
+            Increment="5"
             UpButtonBackgroundColor="Green" />
     </StackLayout>
 

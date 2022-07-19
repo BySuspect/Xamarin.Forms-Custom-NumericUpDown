@@ -124,6 +124,17 @@ namespace CustomNumericUpDownSample
             this.CornerRadius = 15;
         }
 
+        public double Increment
+        {
+            get
+            {
+                return _increaseValue;
+            }
+            set
+            {
+                _increaseValue = value;
+            }
+        }
         public double maxValue
         {
             get
