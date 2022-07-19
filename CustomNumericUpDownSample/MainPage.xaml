@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="CustomNumericUpDownSample.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:custom="clr-namespace:CustomNumericUpDownSample">
+
+    <StackLayout VerticalOptions="Center">
+        <custom:NumericUpDown
+            x:Name="numeric"
+            Margin="15,0"
+            BackgroundColor="#53FF7A7A"
+            BorderColor="Red"
+            ButtonCornerRadius="15"
+            CornerRadius="15"
+            DownButtonBackgroundColor="Red"
+            UpButtonBackgroundColor="Green" />
+    </StackLayout>
+
+</ContentPage>
