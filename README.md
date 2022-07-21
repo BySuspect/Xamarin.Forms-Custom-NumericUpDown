@@ -434,4 +434,5 @@ xmlns:custom="clr-namespace:[YOUR-PROJECT-NAME]"
  * ButtonBorderWith default = 1
  * ButtonCornerRadius default = 15
  * Increment default = 1
- * TextChanged 
+ * TextChanged Event
+ * And classic Frame properties
