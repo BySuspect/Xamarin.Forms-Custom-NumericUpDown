@@ -5,7 +5,7 @@
 ## Getting Started
 
 
-### Fİrst Create ```NumericUpDown.cs``` on your ```Main``` project.
+### First Create ```NumericUpDown.cs``` on your ```Main``` project.
 Write the following code.
 
 ```
